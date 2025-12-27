@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;me.EthanBilbrey.HarderMobs.NewPig.java&apos; to &apos;MobSpawn.java&apos;&#x0D;&#x0A;- Original project: &apos;HarderMobs&apos;&#x0D;&#x0A;- Original element: &apos;me.EthanBilbrey.HarderMobs.NewPig.java&apos;&#x0D;&#x0A;- Renamed element: &apos;me.EthanBilbrey.HarderMobs.MobSpawn.java&apos;" description="Rename compilation unit &apos;NewPig.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;me.EthanBilbrey.HarderMobs{NewPig.java" name="MobSpawn.java" references="false" stamp="1626231302776" version="1.0"/>
+</session>
